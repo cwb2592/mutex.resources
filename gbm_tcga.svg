@@ -20,9 +20,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   width="491.94818"
+   width="573.14056"
    height="319.5"
-   sodipodi:docname="merged-graph-gbm_tcga.svg"
+   sodipodi:docname="gbm_tcga.svg"
    style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Dialog">
   <metadata
      id="metadata666">
@@ -53,7 +53,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.2685914"
-     inkscape:cx="205.18734"
+     inkscape:cx="111.38251"
      inkscape:cy="-1.0808619"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -2219,7 +2219,7 @@
   </g>
   <g
      id="g5433"
-     transform="translate(-148.0669,-5)">
+     transform="translate(-66.874485,-23.130345)">
     <rect
        transform="scale(-1,-1)"
        y="-311.3161"
@@ -2274,7 +2274,7 @@
   </g>
   <g
      id="g5418"
-     transform="translate(-162.25586,13.130345)">
+     transform="translate(-70.417828,-5.7882763)">
     <rect
        y="204.28856"
        x="565.5191"
